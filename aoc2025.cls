@@ -6,4 +6,6 @@
   ("tungsten")
   :components
   (("src/"
-    ("utils.lisp"))))
+    ("utils.lisp"
+     "day-01.lisp"
+     "day-02.lisp"))))
