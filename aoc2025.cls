@@ -8,4 +8,5 @@
   (("src/"
     ("utils.lisp"
      "day-01.lisp"
-     "day-02.lisp"))))
+     "day-02.lisp"
+     "day-03.lisp"))))
